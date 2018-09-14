@@ -1,10 +1,7 @@
 Technologies involved are html, css, and Javascript.
 
- Link to your user stories – who are your users, what do they want and why?
-User enters URL 
 
-Link to your wireframes – sketches of major views / interfaces in your application
-Wireframes- <!DOCTYPE html>
+Wireframes- 
 html wireframe
 
 <head>
