@@ -7,17 +7,17 @@ html wireframe
 //<head>
 
 //<body>
-   // <div class='container'>
-     //   <div class='image'>
+   // div class='container'>
+     //   div class='image'>
        //     
-         //   <form id="guess"> -Input submit
-           // <footer class="holder" id="hold"></footer>
-       // <aside>
-         //   <div>
-           //     <h1>Hangman!</h1>
-             //   <h4>Categories:</h4>
-               // <div> - buttons
-                <//h3 id="buttonRef">Guesses Left: </h3>
+         //   form id="guess"> -Input submit
+           // footer class="holder" id="hold"></footer>
+       // aside>
+         //   div>
+           //     h1>Hangman!</h1>
+             //   h4>Categories:</h4>
+               // div> - buttons
+                //h3 id="buttonRef">Guesses Left: </h3>
 
 
 JS wireframe
