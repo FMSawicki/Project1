@@ -1,0 +1,82 @@
+body {
+  /* display: flex; */
+  /* justify-content: flex-start; */
+  max-height: 600px;
+  align-items: center;
+}
+.container {
+  position: absolute;
+  max-width: 1000px;
+  height: 500px;
+  border: black solid;
+  background-color: rgba(47, 152, 201, 0.8);
+  /* display: inline-flex; */
+  margin-top: 50px;
+  margin-left: 200px;
+}
+
+img {
+  margin-left: 275px;
+  margin-top: 15px;
+}
+.image {
+  width: 600px;
+  height: 500px;
+  /* border: solid black 1px; */
+  float: right;
+}
+aside {
+  position: absolute;
+  display: flex;
+  height: 500px;
+  width: 200px;
+  float: left;
+  background-color: rgb(218, 133, 36);
+  border-right: black solid;
+  text-align: center;
+}
+
+form {
+  text-align: center;
+  font-size: 20px;
+  margin-left: 200px;
+}
+footer {
+  text-align: center;
+  font-size: 20px;
+  margin-left: 200px;
+  margin-top: 50px;
+  /* border: black solid 1px; */
+  font-size: 20px;
+}
+.clearfix {
+  overflow: auto;
+}
+.categories {
+  margin-left: 5px;
+}
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  position: absolute;
+  float: right;
+  justify-content: center;
+  border-bottom: solid black;
+  margin-top: 100px;
+  margin-left: 20px;
+  text-align: center;
+}
+h3 {
+  position: absolute;
+  float: right;
+  justify-content: center;
+  margin-top: 200px;
+  margin-left: 20px;
+  border-bottom: solid black;
+  text-align: center;
+}
+ul {
+  float: right;
+}
